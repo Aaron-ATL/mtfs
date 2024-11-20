@@ -158,5 +158,5 @@ if IS_HEROKU:
     #! DOMAIN = "app.songwriters.co"
     
 #! SHOPIFY_PRODUCT_ID = '7442108514413'
-#! DEFAULT_FROM_EMAIL = 'Charles Berthoud<support@bassmasters.co>'
+#! DEFAULT_FROM_EMAIL = [[[[REPLACE]]]]
 DEFAULT_PW = "temporary1"
